@@ -1,0 +1,26 @@
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Cache
+.cache/
+.pytest_cache/
+
+# Model files
+*.model
+*.bin
+*.safetensors
+
+# OS files
+.DS_Store
+._*
+
+# IDE
+.vscode/
+.idea/

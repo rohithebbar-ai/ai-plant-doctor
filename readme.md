@@ -49,13 +49,14 @@
 <div align="center">
 
 ### Landing Page
-![Landing Page](docs/images/landing-page.png)
+![Landing Page](docs/images/Landing-page.png)
 
 ### Analysis Configuration
-![Analysis Options](docs/images/analysis-options.png)
+![Analysis Options](docs/images/Analysis-Options.png)
 
 ### Results Dashboard
-![Results](docs/images/results-page.png)
+![Results](docs/images/Results.png)
+![Results 2](docs/images/Results_2.png)
 
 </div>
 

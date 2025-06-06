@@ -339,10 +339,9 @@ SOFTWARE.
 - 💬 **Discussions** - Join our [Discussions](https://github.com/your-username/ai-plant-doctor/discussions)
 - 📧 **Email** - Contact us at support@aiplantdoctor.com
 
-### Community
-- 🌐 **Website** - [aiplantdoctor.com](https://aiplantdoctor.com)
-- 🐦 **Twitter** - [@AIPlantDoctor](https://twitter.com/AIPlantDoctor)
-- 💼 **LinkedIn** - [AI Plant Doctor](https://linkedin.com/company/ai-plant-doctor)
+### Social Media
+- 🐦 **Twitter** - [X](https://x.com/rohit_hebbar28)
+- 💼 **LinkedIn** - [Rohit Hebbar](https://www.linkedin.com/in/rohithebbar-ai/)
 
 ---
 
